@@ -1,0 +1,35 @@
+
+.bg
+{
+    background-color: #151515;
+    color: white;
+}
+.bg h2{
+    color:red ;
+    font-size: 19px;
+    padding: 50px 0 20px 10px;
+}
+
+
+.bg1 p{
+    padding: 0 90px 0 10px;
+    line-height: 25px;
+}
+
+
+.bg2 p{
+    padding: 0 20px 0 10px;
+}
+.bg2 h6{
+    color:rgba(136, 133, 133, 0.904);
+    font-size: 12px;
+    padding: 5px 0 0px 10px;
+    cursor: pointer;
+    
+}
+
+
+.bg3 p{
+    padding: 0 0 0 10px;
+    line-height: 16px;
+}

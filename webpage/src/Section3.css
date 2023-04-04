@@ -1,0 +1,17 @@
+.image-bg
+{
+    background-image: url(https://demo.themefisher.com/cafedine/images/bg/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.over-color
+{
+        background-color: rgba(0, 0, 0, 0.623);
+    color: white;
+}
+.h1{
+    font-family: 'Cardo', serif;
+    text-align: center;
+    padding: 250px 0;
+}
